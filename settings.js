@@ -10,21 +10,21 @@ const chalk = require('chalk')
 global.lol = '' // https://api.lolhuman.xyz
 global.xzn = '' // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = '6289513081052' // Owner Utama
-global.owner = ['6289513081052', '6283838530788'] // Owner Lainnya
-global.namaowner = 'Arxzy お-ぎ' // Nama Owner
-global.premium = ["6289513081052"] // Premium User
-global.nobot = '6289513081052'
+global.numberowner = '6282301133993' // Owner Utama
+global.owner = ['6282301133993', '6289506015374'] // Owner Lainnya
+global.namaowner = 'Ekji' // Nama Owner
+global.premium = ["6282301133993"] // Premium User
+global.nobot = '6285817902091'
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
-global.namabot = 'Arxzy-MD' // NickBot
+global.namabot = 'BOT-MD' // NickBot
 global.typemenu = 'v2' // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = 'v1' // 'v1' > 'v2'
-global.autoread = false // ReadChat
-global.autobio = false // AutoBio
+global.autoread = true // ReadChat
+global.autobio = true // AutoBio
 global.autoblok212 = true // AutoBlock Nomer +212
 global.onlyindo = false  // AutoBlock Selain Nomer Indo
 global.packname = 'Created By' // Watermark Sticker
-global.author = 'Arxzy ダ' // Watermark Sticker
+global.author = 'EKJI' // Watermark Sticker
 /* ~~~~~~~~~ MESSAGES ~~~~~~~~~ */
 global.mess = {
     done: 'Done ✅',
